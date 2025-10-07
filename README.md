@@ -1,4 +1,4 @@
-![](images/clipboard-3759337823.png){width="631"}
+![](images/clipboard-3759337823.png)
 
 ##### The Canadian Optimized Statistical Smoke Exposure Model (CanOSSEM) employs random forest machine learning algorithm to estimate daily (24-hour) mean PM~2.5~ at 5 km x 5 km resolution, based on multiple integrated data sources such as remote sensing imagery, satellite-derived estimates and ground-based measurements.
 
@@ -15,4 +15,4 @@
 
 *For more information, please contact:*\
 \
-Naman Paul ([naman.paul\@bccdc.ca](mailto:naman.paul@bccdc.ca){.email})
+Naman Paul ([naman.paul\@bccdc.ca](mailto:naman.paul@bccdc.ca))
