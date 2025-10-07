@@ -7,7 +7,7 @@
 | S. No. | Task | Task Description | Directory |
 |--------|:--------------------:|:-------------------:|:---------------:|
 | 1\. | Project workflow and documents | GitHub workflow, project overview, and other documents | [*docs*](https://github.com/BCCDC-PHSA/CanOSSEM/tree/main/docs) |
-| 2\. | Input data ETL and base raster creation | Input data extraction from different sources, cleaning and preparing for transformation; also includes CanOSSEM base raster creation | [*data_exploration*](https://github.com/BCCDC-PHSA/CanOSSEM/tree/main/data_exploration) |
+| 2\. | Input data ETL and base raster creation | Input data extraction from different sources, cleaning and preparing for transformation; also includes CanOSSEM base raster creation | [data_extraction](https://github.com/BCCDC-PHSA/CanOSSEM/tree/main/data_extraction) |
 | 3\. | Data transformation and raster cell assignment | Processed data transformed to match CanOSSEM raster cells, creation of complete datasets binding daily data from different sources | [*data_transformation*](https://github.com/BCCDC-PHSA/CanOSSEM/tree/main/data_transformation) |
 | 4\. | Model development | Development of machine learning models, model testing, cross validation etc. | [*model_development*](https://github.com/BCCDC-PHSA/CanOSSEM/tree/main/model_development) |
 
